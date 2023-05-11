@@ -1,0 +1,33 @@
+Assignment
+ #1 squareNumber(number)
+
+Write a function called squareNumber that will take one argument (a number), square that number, and output to the console. 
+
+"The result of squaring the number 3 is 9."
+
+#2 halfNumber(number)
+
+Write a function called halfNumber that will take one argument (a number), divide it by 2, and output to the console. 
+
+"Half of 5 is 2.5."
+
+#3 percentOf(number, number)
+
+Write a function called percentOf that will take two numbers, figure out what percent the first number represents of the second number, and output to the console. 
+
+"2 is 50% of 4."
+
+#4 areaOfCircle(number)
+
+Write a function called areaOfCircle that will take one argument (the radius), calculate the area based on that, and output to the console. 
+
+"The area for a circle with radius 2 is 12.566370614359172."
+
+#5 allTheStuff(number)
+
+Write a function that will take one argument (a number) and perform the following operations, using the functions you wrote earlier:
+
+a. Take half of the number and store the result.
+b. Square the result of (a) and store that result.
+c. Calculate the area of a circle with the result of (b) as the radius.
+d. Calculate what percentage that area (c) is of the squared result (b).
